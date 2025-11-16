@@ -120,6 +120,7 @@ All environment variables are stored securely in Vercel.
 
 ## Links
 - [Live Application](https://peraverse-events.vercel.app/)
+- [Project Repository](https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-Details-Page)
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
