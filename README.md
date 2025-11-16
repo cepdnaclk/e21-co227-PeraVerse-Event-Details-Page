@@ -9,8 +9,7 @@ title: Event Details Page of PeraVerse's Dynamic Schedule Board
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Event Details Page of PeraVerse's Dynamic Schedule Board
-
+# Event Details Page of PeraVerse
 ---
 
 ## Team
