@@ -4,12 +4,12 @@ permalink: index.html
 
 # Please update this with your repository name and title
 repository-name: cepdnaclk/e21-co227-PeraVerse-Event-Details-Page
-title: Event Details Page of PeraVerse
+title: Event Details Page of PeraVerse's Dynamic Schedule Board
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Event Details Page of PeraVerse's Dynamic Schedule Board
+# Event Details Page of PeraVerse
 
 ---
 
