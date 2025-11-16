@@ -96,8 +96,8 @@ This improves user engagement, event visibility, and user interaction within the
     Edit `.env` file inside the `backend`:
     ```
     SUPABASE_URL="Your Supabase URL"
-    SUPABASE_ANON_KEY="Supabase Anon Key"
-    SUPABASE_SERVICE_KEY="Supabase Service Key"
+    SUPABASE_ANON_KEY="Your Supabase Anon Key"
+    SUPABASE_SERVICE_KEY="Your Supabase Service Key"
     NODE_ENV=development
     PORT=3000
     ```
