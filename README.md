@@ -3,13 +3,13 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: cepdnaclk/e21-CO227-Team18-PeraVerse
-title: PeraVerse – Event Management System (Single Event Details Page)
+repository-name: cepdnaclk/e21-co227-PeraVerse-Event-Details-Page
+title: Event Details Page of PeraVerse - Dynamic Schedule Board
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# PeraVerse – Event Management System (Single Event Details Page)
+# Event Details Page of PeraVerse - Dynamic Schedule Board
 
 ---
 
@@ -73,8 +73,8 @@ This improves user engagement, event visibility, and user interaction within the
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-repo-url>.git
-    cd <project-folder>
+    git clone https://github.com/cepdnaclk/e21-co227-PeraVerse-Event-Details-Page.git
+    cd e21-co227-PeraVerse-Event-Details-Page
     ```
 
 2.  **Install Dependencies**
@@ -93,11 +93,13 @@ This improves user engagement, event visibility, and user interaction within the
     ```
 
 3.  **Environment Variables**
-    Create a `.env` file inside the `backend`:
+    Edit `.env` file inside the `backend`:
     ```
-    SUPABASE_URL=your_supabase_url
-    SUPABASE_SERVICE_KEY=your_service_role_key
-    FRONTEND_ORIGIN=http://localhost:5173
+    SUPABASE_URL="Your Supabase URL"
+    SUPABASE_ANON_KEY="Supabase Anon Key"
+    SUPABASE_SERVICE_KEY="Supabase Service Key"
+    NODE_ENV=development
+    PORT=3000
     ```
 
 4.  **Running the System Locally**
@@ -110,7 +112,7 @@ This improves user engagement, event visibility, and user interaction within the
 
 The complete system is deployed on Vercel:
 
-- Frontend: https://peraverse-events.vercel.app/
+- Frontend: https://peraverse-events.vercel.app
 - Backend: Deployed as Vercel serverless API
 - Database: Supabase Cloud
 
