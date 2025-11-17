@@ -125,7 +125,7 @@ All environment variables are stored securely in Vercel.
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
 ### Tags
-`React` `Vite` `Express.js` `Node.js` `Supabase` `Full-Stack` `Cloud Deployment` `Vercel` `Event Management`
+`React`, `Vite`, `Express.js`, `Node.js`, `Supabase`, `Full-Stack`, `Cloud Deployment`, `Vercel`, `Event Management`
 
 ---
 *Developed for CO227 Computer Engineering Project, University of Peradeniya*
